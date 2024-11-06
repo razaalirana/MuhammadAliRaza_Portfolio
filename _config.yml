@@ -1,0 +1,12 @@
+title: "Muhammad Ali Raza's Portfolio"
+description: "Portfolio website"
+baseurl: "" # Leave blank for root
+url: "https://MuhammadAliRaza_Portfolio.github.io"
+
+# Exclude certain files or directories from processing
+exclude:
+  - "assets/css/style.scss"
+
+# Optional: Configure Jekyll’s SCSS settings if needed
+sass:
+  sass_dir: "_sass"
