@@ -1,0 +1,4 @@
+sass:
+  sass_dir: ""  # Set to an empty string to prevent Jekyll from looking for SCSS files
+exclude:
+  - "assets/css/style.scss"  # Explicitly exclude style.scss if it's still referenced anywhere
