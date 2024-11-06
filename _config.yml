@@ -1,2 +1,2 @@
 sass:
-  sass_dir: "assets/css"  # Where Jekyll should look for SCSS files
+  sass_dir: "assets/css"
